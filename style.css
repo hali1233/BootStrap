@@ -1,0 +1,17 @@
+* {
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    box-sizing: border-box;
+}
+
+#banner {
+    background-image: url(../banner.jpg);
+    background-size: cover;
+    border-radius: 10px;
+    height: 360px;
+}
+
+.px-15 {
+    padding-left: 15%;
+    padding-right: 15%;
+}
